@@ -1,0 +1,6 @@
+item.machinemod:Filter.name=Filter of Darkness
+item.machinemod:CompressedFuel.name=Fuel of Darkness
+
+tile.machinemod:fuel.name=Epic Fuel Block of Darkness
+
+itemGroup.machinemod=Machine Mod

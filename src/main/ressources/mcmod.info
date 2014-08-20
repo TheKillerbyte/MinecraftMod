@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MachineMod",
+  "name": "The Machine Mod!",
+  "description": "A Little mod which adds a end game furnace/Machine!",
+  "version": "well it is still alpha 0.1",
+  "mcversion": "1.7.10",
+  "url": "http://I-Would-Like-To-Have-A-Homepage.de",
+  "updateUrl": "",
+  "authorList": ["TheKillerbyte"],
+  "credits": "TheKillerbyte",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
